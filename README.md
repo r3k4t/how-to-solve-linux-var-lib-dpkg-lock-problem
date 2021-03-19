@@ -1,4 +1,4 @@
-# How to slove linux var/lib/dpkg/lock problem? 
+# How to slove linux /var/lib/dpkg/lock problem? 
 
 <h6>Solution:</h6>
 
